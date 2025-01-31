@@ -1,0 +1,14 @@
+E:\GitHub Project\CSharpProjects\BankingSystem\bin\Debug\net9.0\BankingSystem.exe
+E:\GitHub Project\CSharpProjects\BankingSystem\bin\Debug\net9.0\BankingSystem.deps.json
+E:\GitHub Project\CSharpProjects\BankingSystem\bin\Debug\net9.0\BankingSystem.runtimeconfig.json
+E:\GitHub Project\CSharpProjects\BankingSystem\bin\Debug\net9.0\BankingSystem.dll
+E:\GitHub Project\CSharpProjects\BankingSystem\bin\Debug\net9.0\BankingSystem.pdb
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\BankingSystem.AssemblyInfoInputs.cache
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\BankingSystem.AssemblyInfo.cs
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\BankingSystem.csproj.CoreCompileInputs.cache
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\BankingSystem.dll
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\refint\BankingSystem.dll
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\BankingSystem.pdb
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\BankingSystem.genruntimeconfig.cache
+E:\GitHub Project\CSharpProjects\BankingSystem\obj\Debug\net9.0\ref\BankingSystem.dll

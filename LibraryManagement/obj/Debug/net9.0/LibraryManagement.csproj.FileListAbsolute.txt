@@ -1,0 +1,14 @@
+E:\GitHub Project\CSharpProjects\LibraryManagement\bin\Debug\net9.0\LibraryManagement.exe
+E:\GitHub Project\CSharpProjects\LibraryManagement\bin\Debug\net9.0\LibraryManagement.deps.json
+E:\GitHub Project\CSharpProjects\LibraryManagement\bin\Debug\net9.0\LibraryManagement.runtimeconfig.json
+E:\GitHub Project\CSharpProjects\LibraryManagement\bin\Debug\net9.0\LibraryManagement.dll
+E:\GitHub Project\CSharpProjects\LibraryManagement\bin\Debug\net9.0\LibraryManagement.pdb
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfoInputs.cache
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfo.cs
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\LibraryManagement.dll
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\refint\LibraryManagement.dll
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\LibraryManagement.pdb
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\LibraryManagement.genruntimeconfig.cache
+E:\GitHub Project\CSharpProjects\LibraryManagement\obj\Debug\net9.0\ref\LibraryManagement.dll

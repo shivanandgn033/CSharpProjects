@@ -1,0 +1,14 @@
+E:\GitHub Project\CSharpProjects\ContactManager\bin\Debug\net9.0\ContactManager.exe
+E:\GitHub Project\CSharpProjects\ContactManager\bin\Debug\net9.0\ContactManager.deps.json
+E:\GitHub Project\CSharpProjects\ContactManager\bin\Debug\net9.0\ContactManager.runtimeconfig.json
+E:\GitHub Project\CSharpProjects\ContactManager\bin\Debug\net9.0\ContactManager.dll
+E:\GitHub Project\CSharpProjects\ContactManager\bin\Debug\net9.0\ContactManager.pdb
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfoInputs.cache
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfo.cs
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ContactManager.csproj.CoreCompileInputs.cache
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ContactManager.dll
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\refint\ContactManager.dll
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ContactManager.pdb
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ContactManager.genruntimeconfig.cache
+E:\GitHub Project\CSharpProjects\ContactManager\obj\Debug\net9.0\ref\ContactManager.dll

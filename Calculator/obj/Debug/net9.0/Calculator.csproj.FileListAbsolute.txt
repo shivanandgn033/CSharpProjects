@@ -1,0 +1,14 @@
+E:\GitHub Project\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.exe
+E:\GitHub Project\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.deps.json
+E:\GitHub Project\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+E:\GitHub Project\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.dll
+E:\GitHub Project\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.pdb
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.dll
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.pdb
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+E:\GitHub Project\CSharpProjects\Calculator\obj\Debug\net9.0\ref\Calculator.dll

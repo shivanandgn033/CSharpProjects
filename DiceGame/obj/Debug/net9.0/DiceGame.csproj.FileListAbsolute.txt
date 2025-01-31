@@ -1,0 +1,14 @@
+E:\GitHub Project\CSharpProjects\DiceGame\bin\Debug\net9.0\DiceGame.exe
+E:\GitHub Project\CSharpProjects\DiceGame\bin\Debug\net9.0\DiceGame.deps.json
+E:\GitHub Project\CSharpProjects\DiceGame\bin\Debug\net9.0\DiceGame.runtimeconfig.json
+E:\GitHub Project\CSharpProjects\DiceGame\bin\Debug\net9.0\DiceGame.dll
+E:\GitHub Project\CSharpProjects\DiceGame\bin\Debug\net9.0\DiceGame.pdb
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\DiceGame.AssemblyInfoInputs.cache
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\DiceGame.AssemblyInfo.cs
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\DiceGame.csproj.CoreCompileInputs.cache
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\DiceGame.dll
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\refint\DiceGame.dll
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\DiceGame.pdb
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\DiceGame.genruntimeconfig.cache
+E:\GitHub Project\CSharpProjects\DiceGame\obj\Debug\net9.0\ref\DiceGame.dll

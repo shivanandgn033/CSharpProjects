@@ -1,0 +1,14 @@
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.exe
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.deps.json
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.runtimeconfig.json
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.dll
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\bin\Debug\net9.0\NumberGuessingGame.pdb
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.AssemblyInfoInputs.cache
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.AssemblyInfo.cs
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.dll
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\refint\NumberGuessingGame.dll
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.pdb
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\NumberGuessingGame.genruntimeconfig.cache
+E:\GitHub Project\CSharpProjects\NumberGuessingGame\obj\Debug\net9.0\ref\NumberGuessingGame.dll
